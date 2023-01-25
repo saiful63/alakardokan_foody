@@ -1,0 +1,64 @@
+body{
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333333;
+	background-color: #f0f0f0;
+}
+
+/*Header*/
+
+.navbar{
+	background: white;
+}
+.navbar-collapse .right{
+	float: right;
+}
+.put{
+	margin-bottom: 10px;
+}
+.navbar-brand{
+	float: left;
+	padding: 10px 15px;
+	font-size: 18px;
+	line-height: 20px;
+	height: 70px;
+}
+.navbar-brand:hover,
+.navbar-brand:focus{
+	text-decoration: none;
+}
+
+/*services*/
+
+
+#lut{
+	
+	margin-top: 20px;
+	
+}
+
+.card{
+	margin: 10px;
+}
+.card-body{
+	box-shadow: 0 0 20px 7px rgba(0,0,0,0.3);
+}
+
+/*product*/
+.golo{
+	margin: 20px;
+	padding: 20px;
+	color: blue;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#molo{
+    margin: 12px;
+    padding: 5px;
+
+}
+
+/*footer*/
